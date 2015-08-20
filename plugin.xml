@@ -23,7 +23,7 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/Hello.java" target-dir="src/com/healtho5/plugin/"/>
+    <source-file src="src/android/com/healtho5/payment/ccavenue/Hello.java" target-dir="src/com/healtho5/plugin/"/>
   </platform>
 
   <platform name="ios">
