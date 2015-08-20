@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="com.example.hello"
+        id="com.healtho5.payment.ccavenue"
         version="0.7.0">
 
   <name>CCAvenue-Cordova</name>
@@ -11,7 +11,7 @@
 
   <asset src="www/cordova-ccavenue.js" target="js/cordova-ccavenue.js"/>
 
-  <js-module src="www/hello.js" name="hello">
+  <js-module src="www/cordova-ccavenue.js" name="hello">
     <clobbers target="hello" />
   </js-module>
 
